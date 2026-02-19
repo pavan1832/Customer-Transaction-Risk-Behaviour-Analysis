@@ -70,3 +70,6 @@ Synthetic dataset of 5,000 customer transactions generated with realistic distri
 - 8 merchant categories with category-specific amount distributions
 - Logistic-function-based risk labeling incorporating multiple behavioral signals
 - ~2% missing values and ~1% outlier rows for realistic cleaning exercises
+
+- ## project Deployment
+- The project is live at : https://customer-transaction-risk-behaviour.onrender.com/
