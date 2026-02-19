@@ -158,6 +158,7 @@ with st.spinner("🔐 Loading TrustLens engine…"):
 with st.sidebar:
     st.markdown("## 🔐 TrustLens")
     st.caption("Customer Risk Intelligence Platform")
+    st.caption("Developed By Lokpavan P")
     st.divider()
 
     st.markdown("**Filter Data**")
@@ -185,7 +186,7 @@ fdf = df[mask]
 # ══════════════════════════════════════════════════════════════════════════════
 # HEADER
 # ══════════════════════════════════════════════════════════════════════════════
-
+st.markdown("# Developed by Lokpavan P")
 st.markdown("# Customer Transaction Risk & Behavior Analysis")
 st.markdown(
     f"<p style='color:#8b949e;margin-top:-0.5rem;'>Showing <b style='color:#e6edf3'>{len(fdf):,}</b> "
