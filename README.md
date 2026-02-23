@@ -2,6 +2,8 @@
 
 A production-quality Data Science project built with Python, Streamlit, and Machine Learning.
 
+The project is live at: https://customer-transaction-risk-behaviour.onrender.com/
+
 ## 🚀 Quick Start (Replit)
 
 1. **Install dependencies**
